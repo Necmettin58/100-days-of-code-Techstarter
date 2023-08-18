@@ -4,19 +4,19 @@ Tag 0: 17. August 2023
 
 **Heutiger Fortschritt**: umsetzungsideen gesucht, und inspirirenen lassen von anderen KI modellen. (war noch nicht erfolgreich)
 
-**Gedanken:** nach der informationen die ich bereits geammelt habe, könnte sich die umsetzung der schwieriger gestallten als erwartet.
+**Gedanken:** nach der informationen die ich bereits geammelt habe, könnte sich die umsetzung schwieriger gestallten als erwartet.
 
 
 
 
-### Tag 1: 18. August 2023
-##### (lösche mich oder kommentiere mich aus)
+Tag 1: 18. August 2023
 
-**Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
 
-**Gedanken:** Ich habe mich wirklich schwer getan mit CSS/ wirklich mit CSS gekämpft, aber alles in allem habe ich das Gefühl, ich werde langsam besser darin. Canvas ist noch immer Neuland für mich, aber ich habe es geschafft einen Teil der grundlegenden Funktionalität zu verstehen.
+**Heutiger Fortschritt**: einen termin mit einementfernten kollegen gemacht um mit ihm über die app entwicklung zu reden. der kollege ist ein früherer app entwickler gewesen.
 
-**Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
+**Gedanken:** -----
+
+**Link zur Arbeit:** 
 
 
 ### Tag 1: 19. August 2023 (Beispiel 2)
