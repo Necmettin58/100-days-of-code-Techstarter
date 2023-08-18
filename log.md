@@ -1,13 +1,13 @@
 # 100 Days Of Code - Logbuch
 
-### Tag 0: 17. August 2023 (Beispiel 1)
-##### (lösche oder kommentiere mich aus)
+Tag 0: 17. August 2023
 
-**Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
+**Heutiger Fortschritt**: umsetzungsideen gesucht, und inspirirenen lassen von anderen KI modellen. (war noch nicht erfolgreich)
 
-**Gedanken:** Ich habe mich wirklich schwer getan mit CSS, aber alles in Allem habe ich das Gefühl, ich werde langsam besser darin. Canvas ist noch immer Neuland für mich, aber ich habe es geschafft einen Teil der grundlegenden Funktionalität zu verstehen.
+**Gedanken:** nach der informationen die ich bereits geammelt habe, könnte sich die umsetzung der schwieriger gestallten als erwartet.
 
-**Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
+
+
 
 ### Tag 1: 18. August 2023
 ##### (lösche mich oder kommentiere mich aus)
